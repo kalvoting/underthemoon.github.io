@@ -1,0 +1,1 @@
+This folder is to try simulate API requests? (maybe will not work?)
